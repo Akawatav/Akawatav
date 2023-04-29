@@ -1,8 +1,6 @@
 どうも!プログラムが好きなAkawatavです気まぐれに作成していきます
 
 現在はSmaller.jsを作成しています
-
-![Smaller.jsのアイコン](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvcjIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+CiAgICA8cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIiByZz0iMiI+CiAgICAgIDxyZWN0IHg9IjEwIiB5PSI2LjUiIHgyPSIxMCIgeTI9IjE3LjUiIHN0cm9rZS13aWR0aD0iMS41IHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgICA8bGluZSB4MT0iMTAiIHkxPSI2LjUiIHgyPSIxMCIgeTI9IjE3LjUiIHN0cm9rZS13aWR0aD0iMS41IHN0cm9rZT0iIzAwMCI+CiAgICAgICAgPGxpbmUgeDE9IjEwIiB5MT0iNi41IiB4Mj0iMTAiIHkzPSIxNy41IiBzdHJva2U9IjE7IiAvPgogICAgPC9zdmc+Cg==)
 <!---
 Akawatav/Akawatav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
